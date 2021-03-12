@@ -1,1 +1,1 @@
-[{"id":23158301,"mjesto":{"id":2,"nazivLat":"Banja Luka","nazivCir":"\xd0\x91\xd0\xb0\xd1\x9a\xd0\xb0 \xd0\x9b\xd1\x83\xd0\xba\xd0\xb0","entitet":"rs","stanovnika":-1},"novi":11,"umrli":0,"oporavljeni":0,"testirani":41,"kriticni":0,"datum":"2020-03-23"}]
+[{"Mjesto": "Banja Luka", "Novi": 11, "Umrli": 0, "Oporavljeni": 0, "Testirani": 41, "Kriticni": 0}]
